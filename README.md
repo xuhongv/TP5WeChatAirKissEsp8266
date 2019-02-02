@@ -55,7 +55,7 @@ www  WEB部署目录（或者子目录）
         'weichatDomain'=>'https://www.domain.com',//JS接口安全域名，调用网页jssdk菜单需要用到。
     ],
 ```
-*   **微信公众号后台验证url地址：http://您的域名/wechat/checkSign**
+*   **微信公众号后台验证安全域名的url地址：http://您的域名/wechat/checkSign**
     
 
 ### 版权信息
