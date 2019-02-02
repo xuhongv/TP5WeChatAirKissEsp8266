@@ -12,6 +12,10 @@
 
 > 运行环境要求PHP5.4以上，不需要数据库。
 
+<p align="center">
+  <img src="png/tp5Airkiss8266.png.png" width="550px" height="360px" alt="Banner" />
+</p>
+ 
 
 ### 目录结构
 
