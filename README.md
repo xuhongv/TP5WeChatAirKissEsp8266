@@ -52,10 +52,11 @@ www  WEB部署目录（或者子目录）
         'appid' => 'wxaec2f6c8cf161231232145d2',
         'appsecret' => '70b1d304e4ca6f3b842222124251887bef',
         'cache_path' => '/www/wwwroot/www.domain.com/runtime/wechatCache', //access_token保存位置，确认此文件夹可读可写
-        'weichatDomain'=>'https://www.domain.com',//后台配置的此公众号访问的域名，调用网页jssdk菜单需要用到。
+        'weichatDomain'=>'https://www.domain.com',//JS接口安全域名，调用网页jssdk菜单需要用到。
     ],
 ```
-
+*   **微信公众号后台验证url地址：http://您的域名/wechat/checkSign**
+    
 
 ### 版权信息
 
