@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xuhongv/TP5WeChatAirKissEsp8266/master/png/tp5Airkiss8266.png" alt="Banner" />
+</p>
+ 
+
 ### 微信公众号源码框架，实现自定义菜单、配网和绑定设备功能。
 
 
@@ -11,11 +17,6 @@
 
 
 > 运行环境要求PHP5.4以上，不需要数据库。
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xuhongv/TP5WeChatAirKissEsp8266/master/png/tp5Airkiss8266.png" alt="Banner" />
-</p>
- 
 
 ### 目录结构
 
