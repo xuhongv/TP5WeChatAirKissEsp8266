@@ -13,7 +13,7 @@
 > 运行环境要求PHP5.4以上，不需要数据库。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xuhongv/TP5WeChatAirKissEsp8266/master/png/tp5Airkiss8266.png" width="550px" height="360px" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/xuhongv/TP5WeChatAirKissEsp8266/master/png/tp5Airkiss8266.png" alt="Banner" />
 </p>
  
 
