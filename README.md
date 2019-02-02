@@ -17,6 +17,7 @@
 
 
 > 运行环境要求PHP5.4以上，不需要数据库。
+> 小徐还提供esp8266硬件源码工程：https://github.com/xuhongv/StudyInEsp8266/tree/master/30_ESP8266_RTOS_AirKiss
 
 ### 目录结构
 
