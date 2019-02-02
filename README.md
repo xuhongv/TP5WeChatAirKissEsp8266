@@ -1,19 +1,19 @@
-# WeChatAirKissEsp8266
+### 微信公众号源码框架，实现自定义菜单、配网和绑定设备功能。
 
-===============
+
 [![License](https://poser.pugx.org/topthink/think/license)](https://packagist.org/packages/topthink/think)
 
-WeChatAirKissEsp8266基于 TP5 为主框架，以移动web的UI框架FrozenUI、WeChatDeveloper微信框架为模块，实现微信公众号自定义菜单、配网设备，以及自定义根据业务需求绑定设备在私有云。
+`WeChatAirKissEsp8266`基于 TP5 为主框架，以移动web的UI框架`FrozenUI`、`WeChatDeveloper`微信框架为模块，实现微信公众号自定义菜单、配网设备，以及自定义根据业务需求绑定设备在私有云。
 
  + 针对 access_token 失效增加了自动刷新机制；
- + WeChatDeveloper 已历经数个线上项目考验。
- + FrozenUI 是一套基于移动端的UI库，轻量、精美、遵从手机 QQ 设计规范。
+ + `WeChatDeveloper` 已历经数个线上项目考验。
+ + `FrozenUI` 是一套基于移动端的UI库，轻量、精美、遵从手机 QQ 设计规范。
 
 
-> 运行环境要求PHP5.4以上。
+> 运行环境要求PHP5.4以上，不需要数据库。
 
 
-## 目录结构
+### 目录结构
 
 下面列出主要目录结构如下：
 
@@ -41,7 +41,7 @@ www  WEB部署目录（或者子目录）
 ~~~
 
 
-### 集成注意事项：
+#### 集成注意事项：
 
 *   根据自己的微信公众号后台配置信息，在application文件夹下面的 config.php 的最下面修改自己的信息；
     
@@ -56,12 +56,8 @@ www  WEB部署目录（或者子目录）
     ],
 ```
 
-*   类库、函数文件统一以`.php`为后缀；
-*   类的文件名均以命名空间定义，并且命名空间的路径和类库文件所在路径一致；
-*   类名和类文件名保持一致，统一采用驼峰法命名（首字母大写）；
 
-
-## 版权信息
+### 版权信息
 
 遵循Apache2开源协议发布，并提供免费使用。
 
