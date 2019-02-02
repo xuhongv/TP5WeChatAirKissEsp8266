@@ -14,10 +14,8 @@
  + 针对 access_token 失效增加了自动刷新机制；
  + `WeChatDeveloper` 已历经数个线上项目考验。
  + `FrozenUI` 是一套基于移动端的UI库，轻量、精美、遵从手机 QQ 设计规范。
-
-
-> 运行环境要求PHP5.4以上，不需要数据库。
-> 小徐还提供esp8266硬件源码工程：https://github.com/xuhongv/StudyInEsp8266/tree/master/30_ESP8266_RTOS_AirKiss
+ + 运行环境要求PHP5.4以上，不需要数据库。
+ + 小徐还提供esp8266硬件源码工程：https://github.com/xuhongv/StudyInEsp8266/tree/master/30_ESP8266_RTOS_AirKiss
 
 ### 目录结构
 
