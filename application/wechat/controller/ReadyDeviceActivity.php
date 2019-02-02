@@ -37,7 +37,7 @@ class ReadyDeviceActivity extends BaseWeChat
             // 实例接口
             $wechat = new \WeChat\Script($this->mWeiChatOptions);
             // 执行操作
-            $result = $wechat->getJsSign('https://www.xuhongv.com/wechat/ready_device_activity/index.html?index=' . $index['index']);
+            $result = $wechat->getJsSign($this->mWeiChatOptions['weichatDomain'] . '/wechat/ready_device_activity/index.html?index=' . $index['index']);
         } catch (Exception $e) {
             // 异常处理
             echo $e->getMessage();
