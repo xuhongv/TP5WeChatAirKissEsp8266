@@ -60,7 +60,7 @@ www  WEB部署目录（或者子目录）
     ],
 ```
 *   **微信公众号后台验证安全域名的url地址：http://您的域名/wechat/checkSign**
-    
+*   **微信公众号后台创建自定义菜单的url地址：http://您的域名/wechat/creatMenu**
 
 ### 版权信息
 
